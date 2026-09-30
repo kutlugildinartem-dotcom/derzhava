@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Колонны государственного здания и растущий график над ним. Холст 108dp, safe zone — центральные 66dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#E8C267" android:pathData="M54,30 L78,42 L30,42 Z" />
+    <path android:fillColor="#E8C267" android:pathData="M34,45 h6 v20 h-6 Z M46,45 h6 v20 h-6 Z M58,45 h6 v20 h-6 Z M70,45 h6 v20 h-6 Z" />
+    <path android:fillColor="#E8C267" android:pathData="M30,67 h48 v5 h-48 Z" />
+    <path android:strokeColor="#5CD6A0" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M36,60 L46,53 L56,57 L72,46" />
+    <path android:fillColor="#5CD6A0" android:pathData="M74,43 L75,50 L68,47 Z" />
+</vector>
